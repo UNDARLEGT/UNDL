@@ -1,0 +1,42 @@
+body {
+  background: white;
+}
+
+.p1 {
+  color: black;
+  font-family: Courier New;
+  font-size: 15px;
+}
+
+.img1 {
+  width: 400px;
+  height: 400px;
+  margin-top: 50px;
+}
+
+.p2 {
+  color: black;
+  font-family: Courier New;
+  margin-top: 60px;
+  font-size: 15px;
+}
+
+.copyright {
+  color: gray;
+  font-family: Arial;
+  font-size: 10px;
+  margin-top: 400px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.copyright2 {
+  color: gray;
+  font-family: Arial;
+  font-size: 10px;
+  margin-top: 2px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
